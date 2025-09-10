@@ -1,0 +1,201 @@
+"item_id";"item_name";"category";"standard_cost"
+"I0001";"Item_1";"Finished Goods";1939.47
+"I0002";"Item_2";"Electronics";1552.51
+"I0003";"Item_3";"Chemicals";1879.6
+"I0004";"Item_4";"Finished Goods";1790.71
+"I0005";"Item_5";"Chemicals";1199.82
+"I0006";"Item_6";"Packaging";1844.53
+"I0007";"Item_7";"Electronics";186.1
+"I0008";"Item_8";"Raw Material";400.01
+"I0009";"Item_9";"Raw Material";100.0
+"I0010";"Item_10";"Electronics";657.41
+"I0011";"Item_11";"Packaging";783.47
+"I0012";"Item_12";"Finished Goods";549.98
+"I0013";"Item_13";"Raw Material";1659.19
+"I0014";"Item_14";"Packaging";719.94
+"I0015";"Item_15";"Raw Material";569.06
+"I0016";"Item_16";"Spare Parts";1089.97
+"I0017";"Item_17";"Finished Goods";290.44
+"I0018";"Item_18";"Spare Parts";1606.37
+"I0019";"Item_19";"Electronics";158.36
+"I0020";"Item_20";"Finished Goods";1973.91
+"I0021";"Item_21";"Packaging";1546.77
+"I0022";"Item_22";"Finished Goods";405.44
+"I0023";"Item_23";"Finished Goods";20.99
+"I0024";"Item_24";"Packaging";1632.77
+"I0025";"Item_25";"Electronics";1416.65
+"I0026";"Item_26";"Finished Goods";1460.72
+"I0027";"Item_27";"Electronics";1544.83
+"I0028";"Item_28";"Electronics";157.35
+"I0029";"Item_29";"Electronics";723.35
+"I0030";"Item_30";"Raw Material";240.58
+"I0031";"Item_31";"Chemicals";1727.58
+"I0032";"Item_32";"Electronics";1250.36
+"I0033";"Item_33";"Packaging";668.49
+"I0034";"Item_34";"Chemicals";136.48
+"I0035";"Item_35";"Electronics";628.85
+"I0036";"Item_36";"Packaging";657.11
+"I0037";"Item_37";"Packaging";1461.92
+"I0038";"Item_38";"Spare Parts";1278.74
+"I0039";"Item_39";"Spare Parts";1775.55
+"I0040";"Item_40";"Finished Goods";949.71
+"I0041";"Item_41";"Electronics";247.99
+"I0042";"Item_42";"Electronics";1429.36
+"I0043";"Item_43";"Chemicals";1523.96
+"I0044";"Item_44";"Packaging";1126.94
+"I0045";"Item_45";"Electronics";1544.22
+"I0046";"Item_46";"Finished Goods";992.65
+"I0047";"Item_47";"Raw Material";1050.24
+"I0048";"Item_48";"Packaging";860.81
+"I0049";"Item_49";"Raw Material";60.58
+"I0050";"Item_50";"Finished Goods";224.7
+"I0051";"Item_51";"Spare Parts";72.54
+"I0052";"Item_52";"Finished Goods";1276.46
+"I0053";"Item_53";"Raw Material";635.57
+"I0054";"Item_54";"Packaging";1022.06
+"I0055";"Item_55";"Chemicals";1816.06
+"I0056";"Item_56";"Electronics";506.09
+"I0057";"Item_57";"Finished Goods";826.66
+"I0058";"Item_58";"Packaging";1513.55
+"I0059";"Item_59";"Electronics";465.31
+"I0060";"Item_60";"Spare Parts";163.19
+"I0061";"Item_61";"Spare Parts";586.61
+"I0062";"Item_62";"Electronics";330.83
+"I0063";"Item_63";"Spare Parts";1860.1
+"I0064";"Item_64";"Packaging";1618.16
+"I0065";"Item_65";"Finished Goods";1270.47
+"I0066";"Item_66";"Packaging";1744.21
+"I0067";"Item_67";"Packaging";1609.31
+"I0068";"Item_68";"Electronics";381.27
+"I0069";"Item_69";"Chemicals";1786.19
+"I0070";"Item_70";"Chemicals";1083.29
+"I0071";"Item_71";"Finished Goods";1616.81
+"I0072";"Item_72";"Electronics";1793.22
+"I0073";"Item_73";"Chemicals";642.83
+"I0074";"Item_74";"Spare Parts";229.0
+"I0075";"Item_75";"Chemicals";463.59
+"I0076";"Item_76";"Spare Parts";859.94
+"I0077";"Item_77";"Finished Goods";1637.85
+"I0078";"Item_78";"Packaging";1722.85
+"I0079";"Item_79";"Packaging";23.83
+"I0080";"Item_80";"Chemicals";1026.39
+"I0081";"Item_81";"Spare Parts";840.65
+"I0082";"Item_82";"Raw Material";451.99
+"I0083";"Item_83";"Raw Material";248.53
+"I0084";"Item_84";"Raw Material";681.85
+"I0085";"Item_85";"Packaging";1886.39
+"I0086";"Item_86";"Electronics";653.17
+"I0087";"Item_87";"Packaging";1042.39
+"I0088";"Item_88";"Electronics";1409.01
+"I0089";"Item_89";"Spare Parts";733.62
+"I0090";"Item_90";"Chemicals";1943.85
+"I0091";"Item_91";"Raw Material";1925.27
+"I0092";"Item_92";"Spare Parts";511.05
+"I0093";"Item_93";"Spare Parts";999.52
+"I0094";"Item_94";"Chemicals";608.75
+"I0095";"Item_95";"Spare Parts";576.83
+"I0096";"Item_96";"Chemicals";83.41
+"I0097";"Item_97";"Finished Goods";1223.03
+"I0098";"Item_98";"Chemicals";1010.33
+"I0099";"Item_99";"Raw Material";112.44
+"I0100";"Item_100";"Electronics";564.51
+"I0101";"Item_101";"Electronics";1817.45
+"I0102";"Item_102";"Raw Material";486.73
+"I0103";"Item_103";"Electronics";298.34
+"I0104";"Item_104";"Chemicals";984.01
+"I0105";"Item_105";"Finished Goods";1971.44
+"I0106";"Item_106";"Electronics";491.69
+"I0107";"Item_107";"Finished Goods";1347.55
+"I0108";"Item_108";"Raw Material";1525.62
+"I0109";"Item_109";"Finished Goods";482.9
+"I0110";"Item_110";"Spare Parts";1459.15
+"I0111";"Item_111";"Packaging";741.89
+"I0112";"Item_112";"Spare Parts";1268.29
+"I0113";"Item_113";"Raw Material";1270.72
+"I0114";"Item_114";"Electronics";1076.19
+"I0115";"Item_115";"Electronics";189.68
+"I0116";"Item_116";"Finished Goods";1672.25
+"I0117";"Item_117";"Chemicals";648.35
+"I0118";"Item_118";"Packaging";381.17
+"I0119";"Item_119";"Chemicals";91.14
+"I0120";"Item_120";"Raw Material";1185.88
+"I0121";"Item_121";"Electronics";1358.35
+"I0122";"Item_122";"Finished Goods";43.01
+"I0123";"Item_123";"Electronics";1029.07
+"I0124";"Item_124";"Chemicals";460.73
+"I0125";"Item_125";"Chemicals";1293.89
+"I0126";"Item_126";"Packaging";356.99
+"I0127";"Item_127";"Packaging";1384.97
+"I0128";"Item_128";"Finished Goods";779.6
+"I0129";"Item_129";"Packaging";1874.09
+"I0130";"Item_130";"Chemicals";283.67
+"I0131";"Item_131";"Chemicals";688.72
+"I0132";"Item_132";"Raw Material";235.81
+"I0133";"Item_133";"Chemicals";1850.14
+"I0134";"Item_134";"Finished Goods";1755.91
+"I0135";"Item_135";"Spare Parts";523.3
+"I0136";"Item_136";"Raw Material";1323.37
+"I0137";"Item_137";"Raw Material";1636.27
+"I0138";"Item_138";"Finished Goods";1114.85
+"I0139";"Item_139";"Finished Goods";1064.0
+"I0140";"Item_140";"Packaging";491.29
+"I0141";"Item_141";"Raw Material";195.27
+"I0142";"Item_142";"Packaging";1795.46
+"I0143";"Item_143";"Chemicals";1801.83
+"I0144";"Item_144";"Raw Material";1269.87
+"I0145";"Item_145";"Raw Material";684.67
+"I0146";"Item_146";"Electronics";704.93
+"I0147";"Item_147";"Spare Parts";1454.65
+"I0148";"Item_148";"Raw Material";1795.25
+"I0149";"Item_149";"Chemicals";1775.3
+"I0150";"Item_150";"Packaging";1561.95
+"I0151";"Item_151";"Packaging";1287.64
+"I0152";"Item_152";"Electronics";177.44
+"I0153";"Item_153";"Spare Parts";331.64
+"I0154";"Item_154";"Chemicals";1798.12
+"I0155";"Item_155";"Packaging";1216.79
+"I0156";"Item_156";"Finished Goods";28.3
+"I0157";"Item_157";"Chemicals";211.93
+"I0158";"Item_158";"Chemicals";1330.37
+"I0159";"Item_159";"Spare Parts";20.07
+"I0160";"Item_160";"Packaging";330.01
+"I0161";"Item_161";"Chemicals";1101.98
+"I0162";"Item_162";"Electronics";1386.87
+"I0163";"Item_163";"Electronics";1307.4
+"I0164";"Item_164";"Packaging";456.3
+"I0165";"Item_165";"Electronics";1427.24
+"I0166";"Item_166";"Finished Goods";482.13
+"I0167";"Item_167";"Spare Parts";657.55
+"I0168";"Item_168";"Electronics";1495.52
+"I0169";"Item_169";"Electronics";1302.77
+"I0170";"Item_170";"Finished Goods";1699.95
+"I0171";"Item_171";"Spare Parts";1318.65
+"I0172";"Item_172";"Chemicals";1140.93
+"I0173";"Item_173";"Spare Parts";196.41
+"I0174";"Item_174";"Raw Material";741.75
+"I0175";"Item_175";"Packaging";537.75
+"I0176";"Item_176";"Packaging";495.54
+"I0177";"Item_177";"Raw Material";1946.29
+"I0178";"Item_178";"Finished Goods";792.26
+"I0179";"Item_179";"Raw Material";1785.17
+"I0180";"Item_180";"Chemicals";1265.97
+"I0181";"Item_181";"Chemicals";1591.67
+"I0182";"Item_182";"Packaging";1010.25
+"I0183";"Item_183";"Chemicals";1158.04
+"I0184";"Item_184";"Packaging";990.11
+"I0185";"Item_185";"Raw Material";398.53
+"I0186";"Item_186";"Raw Material";1447.68
+"I0187";"Item_187";"Electronics";568.74
+"I0188";"Item_188";"Electronics";58.39
+"I0189";"Item_189";"Raw Material";1294.49
+"I0190";"Item_190";"Packaging";362.45
+"I0191";"Item_191";"Raw Material";1881.51
+"I0192";"Item_192";"Raw Material";1908.32
+"I0193";"Item_193";"Finished Goods";1830.58
+"I0194";"Item_194";"Raw Material";746.62
+"I0195";"Item_195";"Chemicals";40.76
+"I0196";"Item_196";"Packaging";1857.35
+"I0197";"Item_197";"Finished Goods";862.09
+"I0198";"Item_198";"Electronics";1933.64
+"I0199";"Item_199";"Spare Parts";1927.6
+"I0200";"Item_200";"Packaging";1707.49
