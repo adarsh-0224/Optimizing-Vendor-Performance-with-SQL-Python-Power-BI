@@ -7,10 +7,17 @@ The insights help businesses identify top-performing vendors, reduce risks, and 
 
 
 3. Tech Stack  
-- SQL (MySQL) : Data cleaning, schema creation, and queries for spend/fill rate analysis  
-- Python (Pandas, Matplotlib, Seaborn) : Exploratory Data Analysis (EDA) and visualization  
-- Power BI : Interactive dashboards and KPI tracking  
-- Excel/CSV : Data storage and preprocessing
+SQL (MySQL) : Data cleaning, schema creation, joins, and analytical queries  
+Python (Pandas, Matplotlib, Seaborn) : Exploratory Data Analysis (EDA) and insights  
+Power BI : Dashboard creation, KPIs, slicers, and advanced data visualization  
+DAX (Data Analysis Expressions) : Custom measures and KPIs in Power BI  
+Data Modeling : Relationships between Vendor, Item, and Orders tables  
+File Formats Used :  
+  - .csv : Cleaned datasets (vendor, item, orders)  
+  - .sql : SQL queries and schema definitions  
+  - .ipynb : Python Jupyter Notebook (EDA)  
+  - .pbix : Power BI Dashboard file  
+  - .pdf : Project report & presentation
 
 
 4. Data Source  
