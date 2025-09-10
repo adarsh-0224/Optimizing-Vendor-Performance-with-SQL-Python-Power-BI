@@ -13,7 +13,7 @@ Power BI : Dashboard creation, KPIs, slicers, and advanced data visualization
 DAX (Data Analysis Expressions) : Custom measures and KPIs in Power BI  
 Data Modeling : Relationships between Vendor, Item, and Orders tables
 
-  File Formats Used :  
+    File Formats Used :  
   - .csv : Cleaned datasets (vendor, item, orders)  
   - .sql : SQL queries and schema definitions  
   - .ipynb : Python Jupyter Notebook (EDA)  
