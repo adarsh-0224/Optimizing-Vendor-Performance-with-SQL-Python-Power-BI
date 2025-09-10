@@ -34,5 +34,7 @@ The insights help businesses identify top-performing vendors, reduce risks, and 
 
 
 6. Screenshot : Dashboard Preview https://github.com/adarsh-0224/Optimizing-Vendor-Performance-with-SQL-Python-Power-BI/blob/main/Vendor%20Performance%20Analysis%20Dashboard.png
+   <img width="1371" height="740" alt="Vendor Performance Analysis Dashboard" src="https://github.com/user-attachments/assets/ad1dffed-c500-44f5-85b9-fdf63620ed83" />
+
 
 
