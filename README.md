@@ -11,7 +11,8 @@ SQL (MySQL) : Data cleaning, schema creation, joins, and analytical queries
 Python (Pandas, Matplotlib, Seaborn) : Exploratory Data Analysis (EDA) and insights  
 Power BI : Dashboard creation, KPIs, slicers, and advanced data visualization  
 DAX (Data Analysis Expressions) : Custom measures and KPIs in Power BI  
-Data Modeling : Relationships between Vendor, Item, and Orders tables  
+Data Modeling : Relationships between Vendor, Item, and Orders tables
+
 File Formats Used :  
   - .csv : Cleaned datasets (vendor, item, orders)  
   - .sql : SQL queries and schema definitions  
