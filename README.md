@@ -1,12 +1,12 @@
 1. Project Title : Vendor Performance Analysis using SQL, Python (EDA), and Power BI
 
-2. Short Description / Purpose  
+2. Short Description / Purpose : 
 This project focuses on analyzing vendor performance to optimize procurement and supply chain decisions.  
 Key metrics such as spend, fill rate, on-time delivery, and cost analysis are derived from purchase order data.  
 The insights help businesses identify top-performing vendors, reduce risks, and improve efficiency.
 
 
-3. Tech Stack  
+3. Tech Stack :
 SQL (MySQL) : Data cleaning, schema creation, joins, and analytical queries  
 Python (Pandas, Matplotlib, Seaborn) : Exploratory Data Analysis (EDA) and insights  
 Power BI : Dashboard creation, KPIs, slicers, and advanced data visualization  
@@ -21,7 +21,7 @@ Data Modeling : Relationships between Vendor, Item, and Orders tables
   - .pdf : Project report & presentation
 
 
-4. Data Source  
+4. Data Source :
 - Synthetic datasets created for vendor, items, and purchase orders
   - vendor_master.csv
   - item_master.csv
@@ -29,7 +29,7 @@ Data Modeling : Relationships between Vendor, Item, and Orders tables
 - These files were cleaned and structured in MySQL for analysis.  
 
 
-5. Features / Highlights  
+5. Features / Highlights : 
 - Data Cleaning & Preparation : Schema design, column type fixes, constraints, and relationships in MySQL  
 - SQL Analysis : Vendor spend, fill rate %, average unit cost, and top vendors by spend  
 - Python EDA : Data summaries, vendor/category trends, and statistical insights  
